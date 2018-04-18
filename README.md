@@ -1,4 +1,4 @@
-# ns3-dumbelltopology-hybla-westwood-yeah-
+# ns3-Dumbbell topology-(hybla-westwood-yeah)
 
 Analyze and compare TCP Hybla, TCP Westwood+, and TCP YeAH-TCP performance. Select a Dumbbell
 topology with two routers R1 and R2 connected by a (10 Mbps, 50 ms) wired link. Each of the routers is
